@@ -1,0 +1,215 @@
+Acetic Acid
+Alcohol
+Alpha-Lactose or A-Lactose Monohydrate
+Alpha Tocopherol
+Artificial Flavorings
+Artificial Sweeteners
+Ascorbates
+Ascorbic Acid
+Aspartame
+Astaxanthin
+Baking Powder
+Barley Malt
+Bleached Flour
+Blended Sugar
+Brown Sugar
+Calcium Citrate
+Calcium Fumarate
+Calcium Gluconate
+Calcium Lactate
+Calcium Magnesium Acetate (CMA)
+Calcium Stearate
+Calcium Stearoyl Lactylate
+Caramel
+Caramel Color
+Carbonmethylcellulose Sodium
+Cellulose Microcrystalline
+Cellulose
+Cellulose, Powdered
+Cetearyl Glucoside
+CFG (Corn Fiber Gum)
+Choline Chloride
+Citric Acid
+Citrus Cloud Emulsion (CCS)
+Cocoglycerides
+Confectioners Sugar
+Corn (incl. Popcorn, Cornmeal)
+Corn Alcohol
+Corn Extract
+Corn Fiber Gum (CFG)
+Corn Flour
+Corn Gluten
+Corn Oil, Corn Oil Margarine
+Corn Starch
+Corn Sugar
+Corn Sweetener
+Corn Syrup
+Corn Syrup F
+Corn Syrup Solids
+Croscarmellose Sodium
+Crystalline Dextrose
+Crystalline Fructose
+Crystalline Sorbitol
+Cyclodextrin
+DATUM (A dough conditioner)
+Decyl Glucoside
+Decyl Polyglucose
+Dextrin
+Dextrose (Monohydrate, Anhydrous, Fine, Coarse, Liquid, Agglomerated)
+D-Gluconic Acid
+Dianhydro Sorbitol
+Diglycerides
+Distilled White Vinegar
+Drying Agent
+Edetate Disodium (EDTA)
+Erythorbic Acid
+Erythritol
+Ethanol
+Ethocel 20
+Ethylcellulose
+Ethylene
+Ethyl Acetate
+Ethyl Alcohol
+Ethyl Lactate
+Ethyl Maltol
+Fermentation Nutrient
+Ferrous Gluconate
+Fibersol-2
+Flavorings
+Food Starch
+Fructose
+Fruit Juice Concentrate
+Fumaric Acid
+Furfural
+Furfuryl Alcohol
+Germ or Germ Meal
+Gluconate
+Gluconic Acid
+Glucono Delta-Lactone
+Gluconolactone
+Glucosamine
+Glucose
+Glucose Liquid
+Glucose Liquid V
+Glucose Syrup
+Glucose-Fructose Syrup
+Glutamate
+Gluten
+Gluten Feed or Gluten Meal
+Glycerides
+Glycerin
+Glycerol
+Golden Syrup
+Grits
+HFCS
+HFCS-42
+High Fructose Corn Syrup (HFCS)
+High Maltose Corn Syrup
+Hominy
+Honey
+Hydrolyzed Corn
+Hydrolyzed Corn Protein
+Hydrolyzed Vegetable Protein
+Hydroxypropyl Methylcellulose
+Hydroxypropyl Methylcellulose Phthalate (HPMCP)
+Inositol
+Invert Syrup or Sugar
+Iodized Salt
+Isoglucose
+Isosorbide
+Isosorbide Dinitrate
+Isosorbide Mononitrate
+Lactate
+Lactic Acid
+Lactose
+Lactose Monohydrate (A-Lactose Monohydrate)
+Lauryl Glucoside
+Lecithin
+Linoleic Acid
+Lysine
+Magnesium Citrate
+Magnesium Fumarate
+Magnesium Stearate
+Maize
+Malic Acid
+Malonic Acid
+Malt
+Malt Syrup
+Malt Extract
+Maltitol
+Maltodextrin
+Maltol
+Maltose
+Mannitol
+Methyl Gluceth
+Methyl Glucose
+Methyl Glucoside
+Methylcellulose
+Microcrystalline Cellulose
+Modified Cellulose Gum
+Modified Corn Starch
+Modified Food Starch
+Modified Starch
+Molasses
+Monoglycerides
+Monosodium Glutamate (MSG)
+MSG
+Natural Flavorings
+Olean
+Olestra
+Polenta
+Polydextrose
+Polylactic Acid (PLA)
+Polysorbates (e.g. Polysorbate 80)
+Polyvinyl Acetate
+Potassium Citrate
+Potassium Fumarate
+Potassium Gluconate
+Powdered Sugar
+Pregelatinized Starch
+Propionic Acid
+Propylene Glycol
+Propylene Glycol Monostearate
+Saccharin
+Salt
+Semolina (unless from wheat)
+Simethicone
+Sodium Carboxymethylcellulose
+Sodium Citrate
+Sodium Erythorbate
+Sodium Fumarate
+Sodium Lactate
+Sodium Starch Glycolate
+Sodium Stearoyl Fumarate
+Sorbate
+Sorbic acid
+Sorbitan
+Sorbitol
+Sorghum
+Splenda
+Starch
+Stearic Acid
+Sterols
+Sucralose
+Sucrose
+Sugar
+Tetrahydrofurfuryl Alcohol
+Threonine
+Tocopherol
+Treacle
+Triethyl Citrate
+Unmodified Starch
+Vanilla
+Vanilla Extract
+Vanillin
+Vegetable
+Vinegar
+Vinyl Acetate
+Vitamin C
+Vitamin E
+Vitamins
+Xanthan Gum
+Xylitol
+Yeast
+Zea Mays
+Zein
