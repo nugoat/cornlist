@@ -7,4 +7,4 @@ The goal of this project is to create a authoritative listing of corn-based ingr
 
 This list is a work in progress and carries no guarantee or warranty of any kind. What you put into your body, or the body of someone you are caring for is entirely your responsibility.
 
-This list was created using many of the ingredients listed on Jenny Connors’ [Corn Allergen List](http://www.cornallergens.com/list/corn-allergen-list.php/ "Jenny Connors' Corn Allergen List").
+This list was created using many of the items listed on Jenny Connors’ [Corn Allergen List](http://www.cornallergens.com/list/corn-allergen-list.php/ "Jenny Connors' Corn Allergen List").
