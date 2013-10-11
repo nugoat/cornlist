@@ -1,7 +1,6 @@
 Cornlist
 ========
 
----
 ## About
 This is a list of ingredients that contain corn or a derivative of corn in some form.
 
@@ -12,7 +11,6 @@ This list is a work in progress and carries no guarantee or warranty of any kind
 This list was created using many of the items listed on Jenny Connors’ [Corn Allergen List](http://www.cornallergens.com/list/corn-allergen-list.php/ "Jenny Connors' Corn Allergen List").
 
 
----
 ## To-do
 I want to do stuff like:
 
